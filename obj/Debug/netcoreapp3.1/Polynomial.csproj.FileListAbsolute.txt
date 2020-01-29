@@ -1,0 +1,11 @@
+C:\Users\roomey\Desktop\c#\Epam_1\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.exe
+C:\Users\roomey\Desktop\c#\Epam_1\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.deps.json
+C:\Users\roomey\Desktop\c#\Epam_1\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.runtimeconfig.json
+C:\Users\roomey\Desktop\c#\Epam_1\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.runtimeconfig.dev.json
+C:\Users\roomey\Desktop\c#\Epam_1\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.dll
+C:\Users\roomey\Desktop\c#\Epam_1\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.pdb
+C:\Users\roomey\Desktop\c#\Epam_1\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.csprojAssemblyReference.cache
+C:\Users\roomey\Desktop\c#\Epam_1\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.AssemblyInfoInputs.cache
+C:\Users\roomey\Desktop\c#\Epam_1\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.AssemblyInfo.cs
+C:\Users\roomey\Desktop\c#\Epam_1\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.dll
+C:\Users\roomey\Desktop\c#\Epam_1\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.pdb
